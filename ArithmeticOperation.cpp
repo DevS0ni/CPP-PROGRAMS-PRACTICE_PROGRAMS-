@@ -1,12 +1,12 @@
 // [8.] PROGRAM FOR ARITHMETIC OPERATION. (+,-,/,*,%)
 
-#include<iostream>
-using namespace std;
-int main()
+#include<iostream>  // Declaration of the standard input output stream for the program.
+using namespace std;  // Declaration of the standard namespace for the program.
+int main()  // Main or startup function for the program.
 {
-	int num1,num2;
+	int num1,num2;  // Declaration of the variables.
 	
-	cout<<"Enter number 1 : ";
+	cout<<"Enter number 1 : ";  // Prompting the user
 	cin>>num1;
 	
 	cout<<"Enter number 2 : ";
