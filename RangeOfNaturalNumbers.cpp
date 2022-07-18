@@ -2,7 +2,7 @@
 
 #include<iostream> // Declaration of the standard input output stream header file for the C++ program.
 using namespace std;  // Declaration of the standard namespace for the C++ program.
-int main()
+int main()  // Main or start-up function for the program.
 {
 	int i,num;  // Declaration of the variables.
 	cout<<"Enter any number = ";  // Prompting the user to mention the number, upto which the iteration of the loop should be implemented.
