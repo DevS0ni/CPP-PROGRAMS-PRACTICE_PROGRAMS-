@@ -1,4 +1,4 @@
-// [10.] TO CHECK WHETHER THE ENTERED NUMBER IS EVEN OR ODD. [USING TERNARY OPERATOR ' ()?: ']..
+// [11.] TO CHECK WHETHER THE ENTERED NUMBER IS EVEN OR ODD. [USING TERNARY OPERATOR ' ()?: ']..
 
 #include<iostream> // Declaration of the standard input/ output stream header file for the C++ program.
 // #include<stdio.h> (for C Programming.....)
