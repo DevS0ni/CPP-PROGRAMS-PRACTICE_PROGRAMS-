@@ -11,33 +11,30 @@ Course Information
 After successful completion of this course, it helped me to...
 
 ```
-  * Gain a basic understaning of C programming.
-  * Gain a handsome knowledge on all of the procedural aspects of C programming namely-
+  * Gain a basic overall understaning of C++ programming.
+  * Gain a handsome knowledge on all of the procedural & object-oriented aspects of C++ programming namely-
      - Intro to C++ Programming.
      - Difference between Procedural aspects & Object-Oriented Programming.
-     - Naming Conventions.
-     - Variables (Tokens, Identifiers), Data Types.
-     - Operators (Arithmetic, Relational, Bitwise, Assignment, Logical, Misc)
-     - Ternary Operators & Operators Precedence.
-     - Conditional Constructs/ Conditional Statements (Simple if, if...else, if...else if...else,
-       nested if...else, switch case - selective construct)
-     - Iterative Constructs/ Loops (for, while, do...while loops)
-     - Control Statments (break, continue, goto-jumping statement)
-     - Functions (Standard Library functions & User Defined Functions)
-     - String functions & Manipulations.
-     - Recursion/ Pattern programs (Calling functions recursively - fibonacci, factorial, patterns-*,#)
-     - Arrays & Operations on Arrays (1D Arrays & 2D Arrays) [Homogenous Datatype]
-     - Structures & Unions [Heterogenous Datatype]
-        * Nested Structure
-        * Embedded Structure
-     - Pointers
-        * Pointer arithmetic
-        * Pointer to pointer
-        * Array with Pointers
-        * Pointers with functions (Passing pointers to functions & Returning Pointers from a function)
-        * Pointers with Structures
-     - File Handling (file operations-read,write,append)
-     - Dynamic Memory Allocation (malloc & calloc)
+     - Difference between C & C++.
+     - Advantages of OOP & Applications of OOP based language.
+     - Introduction to three pillars of OOP - Polymorphism, Abstraction & Inheritance.
+     - A basic structure of a C++ program; objects of the standard input/ output stream - cin, cout & endl
+     - Classes & Objects, Access Modifiers of the class - public, protected & private.
+     - Revised topic from C such as:
+        * Control Logical Constructs(if...else, Nested if-else, Switch statements)
+        * Procedural aspect of C++ - Functions.
+        * Recursive Functions.
+        * Pointers.
+     - References & Alias, Dynamic Memory Allocation.  
+     - Constructors (Default & Parameterized) & Destructors.
+     - Copy Constructors & Assignment Operators.
+     - Friend functions.
+     - Operator Overloading (Unary & Binary Overloading), Restrictions, Overloading & Exceptions.
+     - Polymorphism - Function Overriding & Overloading.
+     - Data Abstraction - Pure Virtual Function.
+     - File Handling (read, write & append).
+     - Template Functions & Classes.
+     - Exceptional Handling (Try & Catch Block)
      - Debugging Methods & Troubleshooting, Walkthroughs, Modular Aspects of Programming.
      - Syntactic and Semantic Errors
  ```
