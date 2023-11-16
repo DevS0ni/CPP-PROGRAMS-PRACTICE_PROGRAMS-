@@ -54,7 +54,7 @@ Academic Honesty/ Integrity Statement
 I declare that the code in this repository is entirely my own work.
 
 NOTE: For others, this repo can be a good reference, if someone wants to learn &
-understand the aspects of C programming and it's topic but must not copy the
+understand the aspects of ObjectOriented C++ programming and it's topic but must not copy the
 work completed by me!
 ```
 
