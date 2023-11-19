@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstring>
 
-// Function to find the length of a string
+// 1. Function to find the length of a string
 int findLength(const char* str) {
     int length = 0;
     while (str[length] != '\0') {
@@ -10,7 +10,7 @@ int findLength(const char* str) {
     return length;
 }
 
-// Function to display a string from backward
+// 2. Function to display a string from backward
 void displayBackward(const char* str) {
     int length = findLength(str);
     for (int i = length - 1; i >= 0; --i) {
@@ -19,7 +19,7 @@ void displayBackward(const char* str) {
     std::cout << std::endl;
 }
 
-// Function to count the number of words in a string
+// 3. Function to count the number of words in a string
 int countWords(const char* str) {
     int wordCount = 0;
     bool inWord = false;
@@ -36,17 +36,17 @@ int countWords(const char* str) {
     return wordCount;
 }
 
-// Function to concatenate two strings
+// 4. Function to concatenate two strings
 void concatenateStrings(char* dest, const char* src) {
     strcat(dest, src);
 }
 
-// Function to compare two strings for exact equality
+// 5. Function to compare two strings for exact equality
 bool areStringsEqual(const char* str1, const char* str2) {
     return strcmp(str1, str2) == 0;
 }
 
-// Function to check if a string is palindrome
+// 6. Function to check if a string is palindrome
 bool isPalindrome(const char* str) {
     int length = findLength(str);
     for (int i = 0; i < length / 2; ++i) {
@@ -57,7 +57,7 @@ bool isPalindrome(const char* str) {
     return true;
 }
 
-// Function to find a substring within a string and display its starting position
+// 7. Function to find a substring within a string and display its starting position
 int findSubstring(const char* str, const char* sub) {
     const char* position = strstr(str, sub);
     if (position != nullptr) {
@@ -67,7 +67,7 @@ int findSubstring(const char* str, const char* sub) {
     }
 }
 
-// Function to reverse a string
+// 8. Function to reverse a string
 void reverseString(char* str) {
     int length = findLength(str);
     for (int i = 0; i < length / 2; ++i) {
@@ -75,7 +75,7 @@ void reverseString(char* str) {
     }
 }
 
-// Function to convert a string to lowercase
+// 9. Function to convert a string to lowercase
 void toLowerCase(char* str) {
     int length = findLength(str);
     for (int i = 0; i < length; ++i) {
@@ -83,7 +83,7 @@ void toLowerCase(char* str) {
     }
 }
 
-// Function to convert a string to uppercase
+// 10. Function to convert a string to uppercase
 void toUpperCase(char* str) {
     int length = findLength(str);
     for (int i = 0; i < length; ++i) {
