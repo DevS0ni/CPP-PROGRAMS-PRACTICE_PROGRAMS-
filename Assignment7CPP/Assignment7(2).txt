@@ -1,0 +1,39 @@
+1)student
+
+no
+id
+name
+gender
+email
+mobile no
+address
+city
+pincode
+state
+country
+
+2)employee
+
+id
+code  e0001
+first name
+middle name
+last name
+gender
+birthrate
+address
+city
+pin code
+designation
+department
+join date
+job time
+
+3)book shop
+
+no
+book name
+author name
+lib name
+page no
+book price
