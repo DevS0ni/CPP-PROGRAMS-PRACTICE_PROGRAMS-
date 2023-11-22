@@ -83,7 +83,6 @@ int main() {
 
 // Q-2. Create two member functions max() to find out the maximum number among two numbers and three numbers.
 // (Overloading concept)
-*/
 
 #include <iostream>
 using namespace std;
