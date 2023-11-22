@@ -1,0 +1,16 @@
+Fuction Overloading
+
+
+Create two overloaded inline functions area( ) 
+to compute (i) area of triangle and (ii) area of circle.
+
+Create 4 overloaded functions min( ) to
+compute minimum of 3 parameters passed :
+
+(i)	int min(int , int, int );
+(ii)	float min(float, float, float);
+(iii)	char min(char, char, char);
+(iv)	double min(double, double, double);
+
+Create 2 overloaded functions calc_interest( ) 
+to compute simple interest and compound interest.
