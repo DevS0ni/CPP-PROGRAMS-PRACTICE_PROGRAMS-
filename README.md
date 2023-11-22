@@ -28,10 +28,13 @@ After successful completion of this course, it helped me to...
      - References & Alias, Dynamic Memory Allocation.  
      - Constructors (Default & Parameterized) & Destructors.
      - Copy Constructors & Assignment Operators.
+     - Function Overloading.
      - Friend functions.
      - Operator Overloading (Unary & Binary Overloading), Restrictions, Overloading & Exceptions.
      - Polymorphism - Function Overriding & Overloading.
      - Data Abstraction - Pure Virtual Function.
+     - Pure Virtual Functions/ Abstract Class.
+     - Generic Templates
      - File Handling (read, write & append).
      - Template Functions & Classes.
      - Exceptional Handling (Try & Catch Block)
